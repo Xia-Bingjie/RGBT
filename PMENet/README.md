@@ -1,6 +1,6 @@
 # PMENet: Pre-assessment Modality Enhancement Network for RGB-T Salient Object Detection
 
-![overall](D:\SOFTDownload\TyporaDownload\typora-user-images\overall.jpeg)
+![overall](PMENet/img/overall.jpeg)
 
 ## Requirements
 
