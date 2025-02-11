@@ -1,6 +1,6 @@
 # PMENet: Pre-assessment Modality Enhancement Network for RGB-T Salient Object Detection
 
-![overall.jpeg](PMENet/img/overall.jpeg)
+![overall.jpeg](https://github.com/Xia-Bingjie/RGBT/blob/main/PMENet/img/overall.jpeg)
 
 ## Requirements
 
